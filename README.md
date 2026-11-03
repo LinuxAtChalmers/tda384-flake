@@ -2,7 +2,7 @@
 
 Nix flake for TDA384 Principles of Concurrent Programming course.
 
-Includes Java, Erlang, tsim and [tsim_extractor](https://github.com/Toireosu/tsim_extractor). Will be updated with other packages later in the course.
+Includes Java, Erlang, tsim and the [tsim_extractor](https://github.com/Toireosu/tsim_extractor) by Toireosu.
 
 ## Installation
 
